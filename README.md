@@ -1,7 +1,7 @@
 # BME268 - Computational Methods
 
 ## Personal Information
-* Name: Buse Koc
+* Name: Buse Koç
 * Status: 2nd-Year Biomedical Engineering Student
 * Institution: Ankara University
 * Email: buzekoc@gmail.com
